@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// �}�b�v�̃u���b�N�̃f�[�^
+/// マップのブロックのデータ
 /// </summary>
-public class BlockData : MonoBehaviour
+public class BlockData
 {
     private BlockCharacter character;
 
